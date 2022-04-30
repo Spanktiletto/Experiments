@@ -60,6 +60,10 @@ body {
         transform:scale(3.0, 3.0);
         background-color: #F72C25;
       }
+      90%{
+        transform:scale(2.0, 2.0);
+        background-color: #F72C25;
+      }
       100% {
         transform:scale(1, 1);
       }
